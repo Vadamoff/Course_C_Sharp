@@ -6,9 +6,9 @@ Console.WriteLine("Введите число:");
 string a = Console.ReadLine();
 int N = int.Parse(a);
 
-int i = -a
+int i = - N;
 
-while(int <= a)
+while(i <= N)
 {
     Console.WriteLine(i);
     i++;

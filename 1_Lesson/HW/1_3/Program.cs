@@ -9,10 +9,10 @@ string a = Console.ReadLine();
 int num = int.Parse(a);
 
 if(num % 2 == 0)
-    {
+{
         Console.WriteLine($"Число {num} - чётное");
-    }
+}
 else
-    {
+{
         Console.WriteLine($"Число {num} - нечётное");
-    }
+}
