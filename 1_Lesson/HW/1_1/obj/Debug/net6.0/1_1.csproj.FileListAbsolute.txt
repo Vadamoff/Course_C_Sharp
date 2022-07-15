@@ -1,0 +1,15 @@
+X:\EDUCATION\GeekBrains\Знакомство с языками программирования (семинары)\Course_C_Sharp\1_Lesson\HW\1_1\obj\Debug\net6.0\1_1.csproj.AssemblyReference.cache
+X:\EDUCATION\GeekBrains\Знакомство с языками программирования (семинары)\Course_C_Sharp\1_Lesson\HW\1_1\obj\Debug\net6.0\1_1.GeneratedMSBuildEditorConfig.editorconfig
+X:\EDUCATION\GeekBrains\Знакомство с языками программирования (семинары)\Course_C_Sharp\1_Lesson\HW\1_1\obj\Debug\net6.0\1_1.AssemblyInfoInputs.cache
+X:\EDUCATION\GeekBrains\Знакомство с языками программирования (семинары)\Course_C_Sharp\1_Lesson\HW\1_1\obj\Debug\net6.0\1_1.AssemblyInfo.cs
+X:\EDUCATION\GeekBrains\Знакомство с языками программирования (семинары)\Course_C_Sharp\1_Lesson\HW\1_1\obj\Debug\net6.0\1_1.csproj.CoreCompileInputs.cache
+X:\EDUCATION\GeekBrains\Знакомство с языками программирования (семинары)\Course_C_Sharp\1_Lesson\HW\1_1\bin\Debug\net6.0\1_1.exe
+X:\EDUCATION\GeekBrains\Знакомство с языками программирования (семинары)\Course_C_Sharp\1_Lesson\HW\1_1\bin\Debug\net6.0\1_1.deps.json
+X:\EDUCATION\GeekBrains\Знакомство с языками программирования (семинары)\Course_C_Sharp\1_Lesson\HW\1_1\bin\Debug\net6.0\1_1.runtimeconfig.json
+X:\EDUCATION\GeekBrains\Знакомство с языками программирования (семинары)\Course_C_Sharp\1_Lesson\HW\1_1\bin\Debug\net6.0\1_1.dll
+X:\EDUCATION\GeekBrains\Знакомство с языками программирования (семинары)\Course_C_Sharp\1_Lesson\HW\1_1\bin\Debug\net6.0\1_1.pdb
+X:\EDUCATION\GeekBrains\Знакомство с языками программирования (семинары)\Course_C_Sharp\1_Lesson\HW\1_1\obj\Debug\net6.0\1_1.dll
+X:\EDUCATION\GeekBrains\Знакомство с языками программирования (семинары)\Course_C_Sharp\1_Lesson\HW\1_1\obj\Debug\net6.0\refint\1_1.dll
+X:\EDUCATION\GeekBrains\Знакомство с языками программирования (семинары)\Course_C_Sharp\1_Lesson\HW\1_1\obj\Debug\net6.0\1_1.pdb
+X:\EDUCATION\GeekBrains\Знакомство с языками программирования (семинары)\Course_C_Sharp\1_Lesson\HW\1_1\obj\Debug\net6.0\1_1.genruntimeconfig.cache
+X:\EDUCATION\GeekBrains\Знакомство с языками программирования (семинары)\Course_C_Sharp\1_Lesson\HW\1_1\obj\Debug\net6.0\ref\1_1.dll
