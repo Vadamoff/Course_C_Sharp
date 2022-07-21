@@ -1,0 +1,15 @@
+X:\EDUCATION\GeekBrains\Знакомство с языками программирования (семинары)\Course_C_Sharp\1_Lesson\1_2\bin\Debug\net6.0\1_2.exe
+X:\EDUCATION\GeekBrains\Знакомство с языками программирования (семинары)\Course_C_Sharp\1_Lesson\1_2\bin\Debug\net6.0\1_2.deps.json
+X:\EDUCATION\GeekBrains\Знакомство с языками программирования (семинары)\Course_C_Sharp\1_Lesson\1_2\bin\Debug\net6.0\1_2.runtimeconfig.json
+X:\EDUCATION\GeekBrains\Знакомство с языками программирования (семинары)\Course_C_Sharp\1_Lesson\1_2\bin\Debug\net6.0\1_2.dll
+X:\EDUCATION\GeekBrains\Знакомство с языками программирования (семинары)\Course_C_Sharp\1_Lesson\1_2\bin\Debug\net6.0\1_2.pdb
+X:\EDUCATION\GeekBrains\Знакомство с языками программирования (семинары)\Course_C_Sharp\1_Lesson\1_2\obj\Debug\net6.0\1_2.csproj.AssemblyReference.cache
+X:\EDUCATION\GeekBrains\Знакомство с языками программирования (семинары)\Course_C_Sharp\1_Lesson\1_2\obj\Debug\net6.0\1_2.GeneratedMSBuildEditorConfig.editorconfig
+X:\EDUCATION\GeekBrains\Знакомство с языками программирования (семинары)\Course_C_Sharp\1_Lesson\1_2\obj\Debug\net6.0\1_2.AssemblyInfoInputs.cache
+X:\EDUCATION\GeekBrains\Знакомство с языками программирования (семинары)\Course_C_Sharp\1_Lesson\1_2\obj\Debug\net6.0\1_2.AssemblyInfo.cs
+X:\EDUCATION\GeekBrains\Знакомство с языками программирования (семинары)\Course_C_Sharp\1_Lesson\1_2\obj\Debug\net6.0\1_2.csproj.CoreCompileInputs.cache
+X:\EDUCATION\GeekBrains\Знакомство с языками программирования (семинары)\Course_C_Sharp\1_Lesson\1_2\obj\Debug\net6.0\1_2.dll
+X:\EDUCATION\GeekBrains\Знакомство с языками программирования (семинары)\Course_C_Sharp\1_Lesson\1_2\obj\Debug\net6.0\refint\1_2.dll
+X:\EDUCATION\GeekBrains\Знакомство с языками программирования (семинары)\Course_C_Sharp\1_Lesson\1_2\obj\Debug\net6.0\1_2.pdb
+X:\EDUCATION\GeekBrains\Знакомство с языками программирования (семинары)\Course_C_Sharp\1_Lesson\1_2\obj\Debug\net6.0\1_2.genruntimeconfig.cache
+X:\EDUCATION\GeekBrains\Знакомство с языками программирования (семинары)\Course_C_Sharp\1_Lesson\1_2\obj\Debug\net6.0\ref\1_2.dll
