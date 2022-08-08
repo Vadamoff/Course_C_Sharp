@@ -13,11 +13,11 @@ int Degree(int num, int deg)
     return result;
 }
 
-Console.WriteLine("Введите число A: ");
+Console.WriteLine("Введите число A:");
 int A = int.Parse(Console.ReadLine());
 
-Console.WriteLine("Введите число B: ");
+Console.WriteLine("Введите число B:");
 int B = int.Parse(Console.ReadLine());
 
 Console.WriteLine();
-Console.WriteLine($"{A} в степени {B} = {Degree(A, B)}");
+Console.WriteLine($"{A} в степени {B} равно {Degree(A, B)}");
