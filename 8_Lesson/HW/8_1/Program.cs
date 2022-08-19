@@ -43,8 +43,6 @@ void PrintArray2D(int[,] arr)
 
 int[,] BubbleSort(int[,] arr)
 {
-    int temp;
-    
     for(int i = 0; i < arr.GetLength(0); i++)
     {
         for(int j = 0; j < arr.GetLength(1); j++)
@@ -64,10 +62,16 @@ int[,] BubbleSort(int[,] arr)
 
 int[,] array = CreateArray2D();
 
+Console.WriteLine();
+
+Console.WriteLine("Исходный массив:");
 PrintArray2D(array);
 
 Console.WriteLine();
 
 BubbleSort(array);
 
+Console.WriteLine();
+
+Console.WriteLine("Упорядоченный по убыванию элементов в строке массив:");
 PrintArray2D(array);
