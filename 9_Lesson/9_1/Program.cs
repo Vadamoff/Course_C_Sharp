@@ -17,4 +17,7 @@ void ValueSet(int num)
 Console.WriteLine("Введите число:");
 int N = int.Parse(Console.ReadLine());
 
+Console.WriteLine();
+
+Console.WriteLine($"Натуральные числа от 1 до {N}:");
 ValueSet(N);
