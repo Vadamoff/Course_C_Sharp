@@ -1,19 +1,16 @@
 ﻿/*
-Задача 1:
+Задача 2:
 Задайте значения M и N.
 Напишите программу,
-которая выведет все чётные натуральные числа
+которая найдёт сумму натуральных элементов
 в промежутке от M до N с помощью рекурсии.
 */
 
-void ValueEvenMinMax(int min, int max)
+int SumElement(int min, int max)
 {
     if(min > max)
-        return;
-    if(max % 2 != 0)
-        max = max - 1;
-    ValueEvenMinMax(min, max - 2);
-    Console.Write($"{max}, ");
+        return 0;
+    return SumElement(min, max - 1) + max;
 }
 
 Console.WriteLine("Введите число M:");
@@ -26,5 +23,5 @@ int N = int.Parse(Console.ReadLine());
 
 Console.WriteLine();
 
-Console.WriteLine($"Чётные натуральные числа от {M} до {N}:");
-ValueEvenMinMax(M, N);
+Console.WriteLine($"Сумма натуральных элементов от {M} до {N}:");
+Console.WriteLine(SumElement(M, N));
